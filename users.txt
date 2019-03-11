@@ -1,0 +1,20 @@
+Users
+5
+id Int
+name String
+age Int
+points Float
+city String
+12
+1 Pesho 18 12.50 Sofia
+2 Pesho 18 12.52 Sofia
+3 Pesho 18 12.53 Sofia
+4 Pesho 18 12.54 Sofia
+5 Pesho 18 12.55 Sofia
+6 Pesho 18 12.56 Sofia
+7 Pesho 18 12.57 Sofia
+8 Pesho 18 12.58 Sofia
+9 Pesho 18 12.59 Sofia
+10 Pesho 18 12.60 Sofia
+11 Pesho 18 12.61 Sofia
+12 Pesho 18 12.62 Sofia

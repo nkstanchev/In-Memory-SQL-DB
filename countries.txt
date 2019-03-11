@@ -1,0 +1,6 @@
+countries
+2
+city String
+country String
+1
+Sofia Bulgaria
